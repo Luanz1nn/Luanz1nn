@@ -3,9 +3,6 @@
 <h3>Densenvolvedor de Software</h3>
 <h3>Engenharia de Software</h3>
 
-<h2>Encontre-me pelo 📌</h2>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-william-9a126b224/)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+evolução;Estudando+Back-end+e+Front-end;Apaixonado+por+tecnologia+e+programação" alt="Typing SVG" />

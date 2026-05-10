@@ -5,21 +5,91 @@
 
 <h2>Encontre-me pelo 📌</h2>
 
-[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luanz1nn/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-william-9a126b224/)
 
-<h2>Hard Skills </h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+evolução;Estudando+Back-end+e+Front-end;Apaixonado+por+tecnologia+e+programação" alt="Typing SVG" />
+</p>
 
-![Luanz1nn GitHub stats](![Top Langs](https://vercel.app))
+---
 
-<p>Tecnologias que uso</p>
+## 🚀 Sobre mim
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java Script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+💻 Estudando desenvolvimento de software e criando projetos para evoluir minhas habilidades.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanz1nn&layout=compact)
+🎯 Atualmente focado em:
+- Node.js
+- JavaScript
+- APIs REST
+- Banco de Dados
+- HTML, CSS e Front-end
 
+📚 Sempre buscando aprender algo novo e melhorar como desenvolvedor.
 
+---
 
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode,mysql" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luanz1nn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanz1nn&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Luanz1nn&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+## 🌎 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/Luanz1nn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Linguagens que utilizo
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## ✨ Frase
+
+> “A prática transforma conhecimento em habilidade.”
+
+---
+
+<p align="center">
+  Obrigado por visitar meu perfil 😄
+</p>

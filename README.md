@@ -1,5 +1,4 @@
 <h1>Opa, @Luanz1nn aqui!🥷</h1>
-<h2>"𝕾𝖍𝖔𝖔𝖙 𝖋𝖔𝖗 𝖙𝖍𝖊 𝕾𝖙𝖆𝖗𝖘, 𝕬𝖎𝖒 𝖋𝖔𝖗 𝖙𝖍𝖊 𝕸𝖔𝖔𝖓 🌙"</h2>
 <h3>Densenvolvedor de Software</h3>
 <h3>Engenharia de Software</h3>
 
@@ -83,7 +82,7 @@
 
 ## ✨ Frase
 
-> “A prática transforma conhecimento em habilidade.”
+> <h2>"𝕾𝖍𝖔𝖔𝖙 𝖋𝖔𝖗 𝖙𝖍𝖊 𝕾𝖙𝖆𝖗𝖘, 𝕬𝖎𝖒 𝖋𝖔𝖗 𝖙𝖍𝖊 𝕸𝖔𝖔𝖓 🌙"</h2>
 
 ---
 

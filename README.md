@@ -10,7 +10,7 @@
 
 <h2>Hard Skills </h2>
 
-![Luanz1nn GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanz1nn&show_icons=true&theme=radical)
+![Luanz1nn GitHub stats](![Top Langs](https://vercel.app))
 
 <p>Tecnologias que uso</p>
 

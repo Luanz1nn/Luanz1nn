@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/followers/Luanz1nn?label=GitHub&style=for-the-badge">
   </a>
 
-  <a href="https://www.linkedin.com/in/SEU-LINK">
+  <a href="https://www.linkedin.com/in/luan-william-9a126b224/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 

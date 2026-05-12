@@ -132,3 +132,11 @@ Meu site pessoal apresentando projetos e habilidades.
 <p align="center">
   “Code. Learn. Build. Repeat.” 🚀
 </p>
+
+# 🐍 Snake dos commits
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Luanz1nn/Luanz1nn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>

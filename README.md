@@ -1,8 +1,5 @@
-<p align="center">
-  Obrigado por visitar meu perfil 😄
-</p>
 
-<h1 align="center">Olá 👋, eu sou Luan William</h1>
+<h1 align="center">Opa!, Luanz1nn aqui!</h1>
 
 <p align="center">
   Desenvolvedor Full Stack focado em aplicações web modernas.

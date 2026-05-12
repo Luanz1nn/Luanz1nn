@@ -80,9 +80,9 @@ Meu site pessoal apresentando projetos e habilidades.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Luanz1nn&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Luanz1nn&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luanz1nn&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luanz1nn&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -92,10 +92,29 @@ Meu site pessoal apresentando projetos e habilidades.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Luanz1nn&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Luanz1nn&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+[![Luan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luanz1nn&theme=tokyo-night)](https://github.com/Luanz1nn)
+
+</div>
+
+---
+
+# 🏆 Troféus GitHub
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Luanz1nn&theme=tokyonight&no-frame=true&row=1)](https://github.com/Luanz1nn)
+
+</div>
 ---
 
 # 🌎 Onde me encontrar

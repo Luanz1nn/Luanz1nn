@@ -80,9 +80,9 @@ Meu site pessoal apresentando projetos e habilidades.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luanz1nn&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Luanz1nn&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanz1nn&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luanz1nn&layout=compact&theme=tokyonight"/>
 
 </div>
 
